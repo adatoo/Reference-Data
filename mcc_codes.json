@@ -1,0 +1,1122 @@
+[
+    {
+        "id": 742,
+        "name": "Veterinary Services"
+    },
+    {
+        "id": 743,
+        "name": "Wine Producers"
+    },
+    {
+        "id": 744,
+        "name": "Champagne Producers"
+    },
+    {
+        "id": 763,
+        "name": "Agricultural Co-Operatives"
+    },
+    {
+        "id": 780,
+        "name": "Landscaping and Horticultural Services"
+    },
+    {
+        "id": 1520,
+        "name": "General Contractors - Residential and Commercial"
+    },
+    {
+        "id": 1711,
+        "name": "Heating, Plumbing, and Air Conditioning Contractors"
+    },
+    {
+        "id": 1731,
+        "name": "Electrical Contractors"
+    },
+    {
+        "id": 1740,
+        "name": "Masonry, Stonework, Tile-Setting, Plastering, and Insulation Contractors"
+    },
+    {
+        "id": 1750,
+        "name": "Carpentry Contractors"
+    },
+    {
+        "id": 1761,
+        "name": "Roofing, Siding, and Sheet Metal Work Contractors"
+    },
+    {
+        "id": 1771,
+        "name": "Concrete Work Contractors"
+    },
+    {
+        "id": 1799,
+        "name": "Special Trade Contractors – Not Elsewhere Classified"
+    },
+    {
+        "id": 2741,
+        "name": "Miscellaneous Publishing and Printing Services"
+    },
+    {
+        "id": 2791,
+        "name": "Typesetting, Platemaking, and Related Services"
+    },
+    {
+        "id": 2842,
+        "name": "Specialty Cleaning, Polishing, and Sanitation Preparations"
+    },
+    {
+        "id": 4011,
+        "name": "Railroads"
+    },
+    {
+        "id": 4111,
+        "name": "Local and Suburban Commuter Passenger Transportation (including Ferries)"
+    },
+    {
+        "id": 4112,
+        "name": "Passenger Railways"
+    },
+    {
+        "id": 4119,
+        "name": "Ambulance Services"
+    },
+    {
+        "id": 4121,
+        "name": "Taxicabs and Limousines"
+    },
+    {
+        "id": 4131,
+        "name": "Bus Lines"
+    },
+    {
+        "id": 4214,
+        "name": "Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery"
+    },
+    {
+        "id": 4215,
+        "name": "Courier Services - Air and Ground, and Freight Forwarders"
+    },
+    {
+        "id": 4225,
+        "name": "Public Warehousing and Storage - Farm Products, Refrigerated Goods, and Household Goods"
+    },
+    {
+        "id": 4411,
+        "name": "Steamship and Cruise Lines"
+    },
+    {
+        "id": 4457,
+        "name": "Boat Rentals and Leasing"
+    },
+    {
+        "id": 4468,
+        "name": "Marinas, Marine Service, and Supplies"
+    },
+    {
+        "id": 4511,
+        "name": "Airlines and Air Carriers"
+    },
+    {
+        "id": 4582,
+        "name": "Airports, Flying Fields, and Airport Terminals"
+    },
+    {
+        "id": 4722,
+        "name": "Travel Agencies and Tour Operators"
+    },
+    {
+        "id": 4784,
+        "name": "Tolls and Bridge Fees"
+    },
+    {
+        "id": 4789,
+        "name": "Transportation Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 4812,
+        "name": "Telecommunication Equipment and Telephone Sales"
+    },
+    {
+        "id": 4814,
+        "name": "Telecommunications Services - Local and Long Distance Calls, Credit Card Calls, Calls through use of Magnetic-Stripe-Reading Telephones, and Fax Services"
+    },
+    {
+        "id": 4815,
+        "name": "Monthly Summary Telephone Charges"
+    },
+    {
+        "id": 4816,
+        "name": "Comp Network/Information Services"
+    },
+    {
+        "id": 4821,
+        "name": "Telegraph Services"
+    },
+    {
+        "id": 4829,
+        "name": "Wire Transfers and Money Orders"
+    },
+    {
+        "id": 4899,
+        "name": "Cable and Other Pay Television Services"
+    },
+    {
+        "id": 4900,
+        "name": "Utilities - Electric, Gas, Water, and Sanitary"
+    },
+    {
+        "id": 5013,
+        "name": "Motor Vehicle Supplies and New Parts"
+    },
+    {
+        "id": 5021,
+        "name": "Office and Commercial Furniture"
+    },
+    {
+        "id": 5039,
+        "name": "Construction Materials - Not Elsewhere Classified"
+    },
+    {
+        "id": 5044,
+        "name": "Office, Photographic, Photocopy, and Microfilm Equipment"
+    },
+    {
+        "id": 5045,
+        "name": "Computers, Computer Peripheral Equipment, and Software"
+    },
+    {
+        "id": 5046,
+        "name": "Commercial Equipment - Not Elsewhere Classified"
+    },
+    {
+        "id": 5047,
+        "name": "Dental, Laboratory, Medical, and Ophthalmic Hospital Equipment and Supplies"
+    },
+    {
+        "id": 5051,
+        "name": "Metal Service Centers and Offices"
+    },
+    {
+        "id": 5065,
+        "name": "Electrical Parts and Equipment"
+    },
+    {
+        "id": 5072,
+        "name": "Hardware Equipment and Supplies"
+    },
+    {
+        "id": 5074,
+        "name": "Plumbing and Heating Equipment and Supplies"
+    },
+    {
+        "id": 5085,
+        "name": "Industrial Supplies - Not Elsewhere Classified"
+    },
+    {
+        "id": 5094,
+        "name": "Precious Stones and Metals, Watches, and Jewelry"
+    },
+    {
+        "id": 5099,
+        "name": "Durable Goods - Not Elsewhere Classified"
+    },
+    {
+        "id": 5111,
+        "name": "Stationery, Office Supplies, Printing and Writing Paper"
+    },
+    {
+        "id": 5122,
+        "name": "Drugs, Drug Proprietors, and Druggists’ Sundries"
+    },
+    {
+        "id": 5131,
+        "name": "Piece Goods, Notions, and Other Dry Goods"
+    },
+    {
+        "id": 5137,
+        "name": "Men's, Women's, and Children's Uniforms and Commercial Clothing"
+    },
+    {
+        "id": 5139,
+        "name": "Commercial Footwear"
+    },
+    {
+        "id": 5169,
+        "name": "Chemicals and Allied Products - Not Elsewhere Classified"
+    },
+    {
+        "id": 5172,
+        "name": "Petroleum and Petroleum Products"
+    },
+    {
+        "id": 5192,
+        "name": "Books, Periodicals, and Newspapers"
+    },
+    {
+        "id": 5193,
+        "name": "Florists' Supplies, Nursery Stock, and Flowers"
+    },
+    {
+        "id": 5198,
+        "name": "Paints, Varnishes, and Supplies"
+    },
+    {
+        "id": 5199,
+        "name": "Non-Durable Goods - Not Elsewhere Classified"
+    },
+    {
+        "id": 5200,
+        "name": "Home Supply Warehouse Stores"
+    },
+    {
+        "id": 5211,
+        "name": "Lumber and Building Materials Stores"
+    },
+    {
+        "id": 5231,
+        "name": "Glass, Paint, and Wallpaper Stores"
+    },
+    {
+        "id": 5251,
+        "name": "Hardware Stores"
+    },
+    {
+        "id": 5261,
+        "name": "Lawn and Garden Supply Stores (including Nurseries)"
+    },
+    {
+        "id": 5271,
+        "name": "Mobile Home Dealers"
+    },
+    {
+        "id": 5300,
+        "name": "Wholesale Clubs"
+    },
+    {
+        "id": 5309,
+        "name": "Duty Free Stores"
+    },
+    {
+        "id": 5310,
+        "name": "Discount Stores"
+    },
+    {
+        "id": 5311,
+        "name": "Department Stores"
+    },
+    {
+        "id": 5331,
+        "name": "Variety Stores"
+    },
+    {
+        "id": 5399,
+        "name": "Miscellaneous General Merchandise"
+    },
+    {
+        "id": 5411,
+        "name": "Grocery Stores and Supermarkets"
+    },
+    {
+        "id": 5422,
+        "name": "Freezer and Locker Meat Provisioners"
+    },
+    {
+        "id": 5441,
+        "name": "Candy, Nut, and Confectionery Stores"
+    },
+    {
+        "id": 5451,
+        "name": "Dairy Products Stores"
+    },
+    {
+        "id": 5462,
+        "name": "Bakeries"
+    },
+    {
+        "id": 5499,
+        "name": "Miscellaneous Food Stores - Convenience Stores and Specialty Markets"
+    },
+    {
+        "id": 5511,
+        "name": "Car and Truck Dealers (New and Used) - Sales, Service, Repairs, Parts, and Leasing"
+    },
+    {
+        "id": 5521,
+        "name": "Car and Truck Dealers (Used Only) - Sales, Service, Repairs, Parts, and Leasing"
+    },
+    {
+        "id": 5531,
+        "name": "Auto and Home Supply Stores"
+    },
+    {
+        "id": 5532,
+        "name": "Automotive Tire Stores"
+    },
+    {
+        "id": 5533,
+        "name": "Auto Parts and Accessories Stores"
+    },
+    {
+        "id": 5541,
+        "name": "Service Stations (with or without Ancillary Services)"
+    },
+    {
+        "id": 5542,
+        "name": "Automated Fuel Dispensers"
+    },
+    {
+        "id": 5551,
+        "name": "Boat Dealers"
+    },
+    {
+        "id": 5561,
+        "name": "Camper, Recreational, and Utility Trailer Dealers"
+    },
+    {
+        "id": 5571,
+        "name": "Motorcycle Shops and Dealers"
+    },
+    {
+        "id": 5592,
+        "name": "Motor Home Dealers"
+    },
+    {
+        "id": 5598,
+        "name": "Snowmobile Dealers"
+    },
+    {
+        "id": 5599,
+        "name": "Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers"
+    },
+    {
+        "id": 5611,
+        "name": "Men’s and Boy's Clothing and Accessory Stores"
+    },
+    {
+        "id": 5621,
+        "name": "Wig and Toupee Stores"
+    },
+    {
+        "id": 5631,
+        "name": "Women’s Accessory and Specialty Stores"
+    },
+    {
+        "id": 5641,
+        "name": "Children’s and Infants’ Wear Stores"
+    },
+    {
+        "id": 5651,
+        "name": "Family Clothing Stores"
+    },
+    {
+        "id": 5655,
+        "name": "Sports and Riding Apparel Stores"
+    },
+    {
+        "id": 5661,
+        "name": "5681 Furriers"
+    },
+    {
+        "id": 5691,
+        "name": "Men’s and Women’s Clothing Stores"
+    },
+    {
+        "id": 5697,
+        "name": "Tailors, Seamstresses, Mending, and Alterations"
+    },
+    {
+        "id": 5698,
+        "name": "Wig and Toupee Stores"
+    },
+    {
+        "id": 5699,
+        "name": "Miscellaneous Apparel and Accessory Stores"
+    },
+    {
+        "id": 5712,
+        "name": "Furniture, Home Furnishings and Equipment Stores, Furniture Manufacturers (except Appliances)"
+    },
+    {
+        "id": 5713,
+        "name": "Floor Covering Stores"
+    },
+    {
+        "id": 5714,
+        "name": "Drapery, Window Covering, and Upholstery Stores"
+    },
+    {
+        "id": 5715,
+        "name": "Alcoholic Beverage Wholesalers"
+    },
+    {
+        "id": 5718,
+        "name": "Fireplaces, Fireplace Screens, and Accessories Stores"
+    },
+    {
+        "id": 5719,
+        "name": "Miscellaneous Home Furnishings Specialty Stores"
+    },
+    {
+        "id": 5722,
+        "name": "Household Appliance Stores"
+    },
+    {
+        "id": 5732,
+        "name": "Electronics Stores"
+    },
+    {
+        "id": 5733,
+        "name": "Music Stores - Musical Instruments, Pianos, and Sheet Music"
+    },
+    {
+        "id": 5734,
+        "name": "Computer Software Stores"
+    },
+    {
+        "id": 5735,
+        "name": "Record Stores"
+    },
+    {
+        "id": 5811,
+        "name": "Caterers"
+    },
+    {
+        "id": 5812,
+        "name": "Eating Places and Restaurants"
+    },
+    {
+        "id": 5813,
+        "name": "Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques"
+    },
+    {
+        "id": 5814,
+        "name": "Fast Food Restaurants"
+    },
+    {
+        "id": 5912,
+        "name": "Drug Stores and Pharmacies"
+    },
+    {
+        "id": 5921,
+        "name": "Package Stores - Beer, Wine, and Liquor"
+    },
+    {
+        "id": 5931,
+        "name": "Used Merchandise and Secondhand Stores"
+    },
+    {
+        "id": 5932,
+        "name": "Antique Shops - Sales, Repairs, and Restoration Services"
+    },
+    {
+        "id": 5933,
+        "name": "Pawn Shops"
+    },
+    {
+        "id": 5935,
+        "name": "Wrecking and Salvage Yards"
+    },
+    {
+        "id": 5937,
+        "name": "Antique Reproduction Stores"
+    },
+    {
+        "id": 5940,
+        "name": "Bicycle Shops - Sales and Service"
+    },
+    {
+        "id": 5941,
+        "name": "Sporting Goods Stores"
+    },
+    {
+        "id": 5942,
+        "name": "Book Stores"
+    },
+    {
+        "id": 5943,
+        "name": "Stationery, Office, and School Supply Stores"
+    },
+    {
+        "id": 5944,
+        "name": "Jewelry"
+    },
+    {
+        "id": 5945,
+        "name": "Hobby, Toy, and Game Stores"
+    },
+    {
+        "id": 5946,
+        "name": "Camera and Photographic Supply Stores"
+    },
+    {
+        "id": 5947,
+        "name": "Gift, Card, Novelty, and Souvenir Stores"
+    },
+    {
+        "id": 5948,
+        "name": "Luggage and Leather Goods Stores"
+    },
+    {
+        "id": 5949,
+        "name": "Sewing, Needlework, Fabric, and Piece Goods Stores"
+    },
+    {
+        "id": 5950,
+        "name": "Glassware and Crystal Stores"
+    },
+    {
+        "id": 5960,
+        "name": "Direct Marketing - Insurance Services"
+    },
+    {
+        "id": 5962,
+        "name": "Telemarketing - Travel-Related Arrangement Services"
+    },
+    {
+        "id": 5963,
+        "name": "Door-To-Door Sales"
+    },
+    {
+        "id": 5964,
+        "name": "Direct Marketing - Catalog Merchants"
+    },
+    {
+        "id": 5965,
+        "name": "Direct Marketing - Catalog and Retail Merchants (both)"
+    },
+    {
+        "id": 5966,
+        "name": "Direct Marketing - Outbound Telemarketing Merchants"
+    },
+    {
+        "id": 5967,
+        "name": "Direct Marketing - Inbound Telemarketing Merchants"
+    },
+    {
+        "id": 5968,
+        "name": "Direct Marketing - Continuity/Subscription Merchants"
+    },
+    {
+        "id": 5969,
+        "name": "Direct Marketing - Not Elsewhere Classified"
+    },
+    {
+        "id": 5970,
+        "name": "Artist Supply and Craft Stores"
+    },
+    {
+        "id": 5971,
+        "name": "Art Dealers and Galleries"
+    },
+    {
+        "id": 5972,
+        "name": "Stamp and Coin Stores"
+    },
+    {
+        "id": 5973,
+        "name": "Religious Goods Stores"
+    },
+    {
+        "id": 5975,
+        "name": "Hearing Aids Sales, Service, and Supplies"
+    },
+    {
+        "id": 5976,
+        "name": "Orthopedic Goods and Prosthetic Devices"
+    },
+    {
+        "id": 5977,
+        "name": "Cosmetic Stores"
+    },
+    {
+        "id": 5978,
+        "name": "Typewriter Stores - Sales, Service, and Rentals"
+    },
+    {
+        "id": 5983,
+        "name": "Fuel Dealers - Fuel Oil, Wood, Coal, and Liquefied Petroleum"
+    },
+    {
+        "id": 5992,
+        "name": "Florists"
+    },
+    {
+        "id": 5993,
+        "name": "Cigar Stores and Stands"
+    },
+    {
+        "id": 5994,
+        "name": "News Dealers and Newsstands"
+    },
+    {
+        "id": 5995,
+        "name": "Pet Shops, Pet Food and Supplies"
+    },
+    {
+        "id": 5996,
+        "name": "Swimming Pools - Sales, Supplies, and Services"
+    },
+    {
+        "id": 5997,
+        "name": "Electric Razor Stores - Sales and Service"
+    },
+    {
+        "id": 5998,
+        "name": "Tent and Awning Stores"
+    },
+    {
+        "id": 5999,
+        "name": "Miscellaneous and Specialty Retail"
+    },
+    {
+        "id": 6010,
+        "name": "Financial Institutions - Manual Cash Disbursements"
+    },
+    {
+        "id": 6011,
+        "name": "Financial Institutions - Automated Cash Disbursements"
+    },
+    {
+        "id": 6012,
+        "name": "Financial Institutions - Merchandise and Services"
+    },
+    {
+        "id": 6051,
+        "name": "Non Financial Institutions - Foreign Currency, Money Orders, (Not Wire Transfer), Scrip, and Travelers’ Checks"
+    },
+    {
+        "id": 6211,
+        "name": "Securities-Brokers and Dealers"
+    },
+    {
+        "id": 6300,
+        "name": "Insurance Sales, Underwriting, and Premiums"
+    },
+    {
+        "id": 7011,
+        "name": "Lodging Hotels, Motels, and Resorts"
+    },
+    {
+        "id": 7012,
+        "name": "Timeshares"
+    },
+    {
+        "id": 7032,
+        "name": "Sporting and Recreational Camps"
+    },
+    {
+        "id": 7033,
+        "name": "Trailer Parks and Campgrounds"
+    },
+    {
+        "id": 7210,
+        "name": "Laundry, Cleaning and Garment Services"
+    },
+    {
+        "id": 7211,
+        "name": "Laundry Services (Family and Commercial)"
+    },
+    {
+        "id": 7216,
+        "name": "Dry Cleaners"
+    },
+    {
+        "id": 7217,
+        "name": "Carpet and Upholstery Cleaning"
+    },
+    {
+        "id": 7221,
+        "name": "Photographic Studios"
+    },
+    {
+        "id": 7230,
+        "name": "Beauty and Barber Shops"
+    },
+    {
+        "id": 7251,
+        "name": "Shoe Repair Shops, Shoe Shine Parlors, and Hat Cleaning Shops"
+    },
+    {
+        "id": 7261,
+        "name": "Funeral Services"
+    },
+    {
+        "id": 7273,
+        "name": "Dating and Escort Services"
+    },
+    {
+        "id": 7276,
+        "name": "Tax Preparation Services"
+    },
+    {
+        "id": 7277,
+        "name": "Debt and Marriage Counseling Services"
+    },
+    {
+        "id": 7278,
+        "name": "Buying and Shopping Services and Clubs"
+    },
+    {
+        "id": 7296,
+        "name": "Clothing Rental - Costumes, Uniforms, and Formal Wear"
+    },
+    {
+        "id": 7297,
+        "name": "Massage Parlors"
+    },
+    {
+        "id": 7298,
+        "name": "Health and Beauty Spas"
+    },
+    {
+        "id": 7299,
+        "name": "Personal Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 7311,
+        "name": "Advertising Services"
+    },
+    {
+        "id": 7321,
+        "name": "Consumer Credit Reporting Agencies"
+    },
+    {
+        "id": 7322,
+        "name": "Debt Collection Agencies"
+    },
+    {
+        "id": 7333,
+        "name": "Commercial Photography, Art, and Graphics"
+    },
+    {
+        "id": 7338,
+        "name": "Quick Copy, Reproduction, and Blueprinting Services"
+    },
+    {
+        "id": 7339,
+        "name": "Stenographic and Secretarial Support Services"
+    },
+    {
+        "id": 7342,
+        "name": "Exterminating and Disinfecting Services"
+    },
+    {
+        "id": 7349,
+        "name": "Cleaning, Maintenance, and Janitorial Services"
+    },
+    {
+        "id": 7361,
+        "name": "Employment Agencies, Temporary Help Services"
+    },
+    {
+        "id": 7372,
+        "name": "Computer Programming, Data Processing, and Integrated Systems Design Services"
+    },
+    {
+        "id": 7375,
+        "name": "Information Retrieval Services"
+    },
+    {
+        "id": 7379,
+        "name": "Computer Maintenance and Repair Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 7392,
+        "name": "Management, Consulting, and Public Relations Services"
+    },
+    {
+        "id": 7393,
+        "name": "Detective Agencies, Protective Agencies, Security Services (including Armored Cars and Guard Dogs)"
+    },
+    {
+        "id": 7394,
+        "name": "Equipment, Tool, Furniture, and Appliance Rental and Leasing"
+    },
+    {
+        "id": 7395,
+        "name": "Photo Finishing Laboratories, and Photo Developing"
+    },
+    {
+        "id": 7399,
+        "name": "Business Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 7512,
+        "name": "Automobile Rental Agency"
+    },
+    {
+        "id": 7513,
+        "name": "Truck and Utility Trailer Rentals"
+    },
+    {
+        "id": 7519,
+        "name": "Motor Home and Recreational Vehicle Rentals"
+    },
+    {
+        "id": 7523,
+        "name": "Parking Lots and Garages"
+    },
+    {
+        "id": 7531,
+        "name": "Automotive Body Repair Shops"
+    },
+    {
+        "id": 7534,
+        "name": "Tire Re-Treading and Repair Shops"
+    },
+    {
+        "id": 7535,
+        "name": "Automotive Paint Shops"
+    },
+    {
+        "id": 7538,
+        "name": "Automotive Service Shops (Non-Dealer)"
+    },
+    {
+        "id": 7542,
+        "name": "Car Washes"
+    },
+    {
+        "id": 7549,
+        "name": "Towing Services"
+    },
+    {
+        "id": 7622,
+        "name": "Electronics Repair Shops"
+    },
+    {
+        "id": 7623,
+        "name": "Air Conditioning and Refrigeration Repair Shops"
+    },
+    {
+        "id": 7629,
+        "name": "Electrical and Small Appliance Repairs"
+    },
+    {
+        "id": 7631,
+        "name": "Watch, Clock, and Jewelry Repair Shops"
+    },
+    {
+        "id": 7641,
+        "name": "Furniture - Re-Upholstery, Repair, and Refinishing"
+    },
+    {
+        "id": 7692,
+        "name": "Welding Services"
+    },
+    {
+        "id": 7699,
+        "name": "Miscellaneous Repair Shops and Related Services"
+    },
+    {
+        "id": 7829,
+        "name": "Motion Picture, Video Tape Production and Distribution"
+    },
+    {
+        "id": 7832,
+        "name": "Motion Picture Theaters"
+    },
+    {
+        "id": 7841,
+        "name": "Video Tape Rental Stores"
+    },
+    {
+        "id": 7911,
+        "name": "Dance Halls, Studios, and Schools"
+    },
+    {
+        "id": 7922,
+        "name": "Theatrical Producers and Ticket Agencies (Except Motion Pictures)"
+    },
+    {
+        "id": 7929,
+        "name": "Bands, Orchestras, and Miscellaneous  Entertainers - Not Elsewhere Classified"
+    },
+    {
+        "id": 7932,
+        "name": "Billiard and Pool Establishments"
+    },
+    {
+        "id": 7933,
+        "name": "Bowling Alleys"
+    },
+    {
+        "id": 7941,
+        "name": "Commercial Sports, Professional Sports Clubs, Athletic Fields, and Sports Promoters"
+    },
+    {
+        "id": 7991,
+        "name": "Tourist Attractions and Exhibits"
+    },
+    {
+        "id": 7992,
+        "name": "Public Golf Courses"
+    },
+    {
+        "id": 7993,
+        "name": "Video Amusement Game Supplies"
+    },
+    {
+        "id": 7994,
+        "name": "Video Game Arcades and Establishments"
+    },
+    {
+        "id": 7995,
+        "name": "Betting (including Lottery tickets, Casino gaming chips, Off-Track Betting, and wagers at Race Tracks)"
+    },
+    {
+        "id": 7996,
+        "name": "Amusement Parks, Circuses, Carnivals, and Fortune Tellers"
+    },
+    {
+        "id": 7997,
+        "name": "Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+    },
+    {
+        "id": 7998,
+        "name": "Aquariums, Seaquariums, and Dolphinariums"
+    },
+    {
+        "id": 7999,
+        "name": "Recreation Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 8011,
+        "name": "Doctors, Physicians - Not Elsewhere Classified"
+    },
+    {
+        "id": 8021,
+        "name": "Dentists, and Orthodontists"
+    },
+    {
+        "id": 8031,
+        "name": "Osteopaths"
+    },
+    {
+        "id": 8041,
+        "name": "Chiropractors"
+    },
+    {
+        "id": 8042,
+        "name": "Optometrists, Ophthalmologists"
+    },
+    {
+        "id": 8043,
+        "name": "Opticians, Optical Goods, and Eyeglasses"
+    },
+    {
+        "id": 8049,
+        "name": "Podiatrists and Chiropodists"
+    },
+    {
+        "id": 8050,
+        "name": "Nursing and Personal Care Facilities"
+    },
+    {
+        "id": 8062,
+        "name": "Hospitals"
+    },
+    {
+        "id": 8071,
+        "name": "Medical and Dental Laboratories"
+    },
+    {
+        "id": 8099,
+        "name": "Medical Services and Health Practitioners - Not Elsewhere Classified"
+    },
+    {
+        "id": 8111,
+        "name": "Legal Services and Attorneys"
+    },
+    {
+        "id": 8211,
+        "name": "Elementary and Secondary Schools"
+    },
+    {
+        "id": 8220,
+        "name": "Colleges, Universities, Professional Schools, and Junior Colleges"
+    },
+    {
+        "id": 8241,
+        "name": "Correspondence Schools"
+    },
+    {
+        "id": 8244,
+        "name": "Business Schools and Secretarial Schools"
+    },
+    {
+        "id": 8249,
+        "name": "Trade and Vocational Schools"
+    },
+    {
+        "id": 8299,
+        "name": "Schools and Educational Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 8351,
+        "name": "Child Care Services"
+    },
+    {
+        "id": 8398,
+        "name": "Charitable and Social Service Organizations"
+    },
+    {
+        "id": 8641,
+        "name": "Civic, Social, and Fraternal Associations"
+    },
+    {
+        "id": 8651,
+        "name": "Political Organizations"
+    },
+    {
+        "id": 8661,
+        "name": "Religious Organizations"
+    },
+    {
+        "id": 8675,
+        "name": "Automobile Associations"
+    },
+    {
+        "id": 8699,
+        "name": "Membership Organizations - Not Elsewhere Classified"
+    },
+    {
+        "id": 8734,
+        "name": "Testing Laboratories - Non-Medical"
+    },
+    {
+        "id": 8911,
+        "name": "Architectural, Engineering, and Surveying Services"
+    },
+    {
+        "id": 8931,
+        "name": "Accounting, Auditing, and Bookkeeping Services"
+    },
+    {
+        "id": 8999,
+        "name": "Professional Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 9211,
+        "name": "Court Costs (including Alimony and Child Support)"
+    },
+    {
+        "id": 9222,
+        "name": "Fines"
+    },
+    {
+        "id": 9223,
+        "name": "Bail and Bond Payments"
+    },
+    {
+        "id": 9311,
+        "name": "Tax Payments"
+    },
+    {
+        "id": 9399,
+        "name": "Government Services - Not Elsewhere Classified"
+    },
+    {
+        "id": 9402,
+        "name": "Postal Services (Government Only)"
+    }
+]
